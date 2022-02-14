@@ -29,4 +29,4 @@ https://www.kaggle.com/aungpyaeap/fish-market
 
 **3. Results**
 
-I measured the accuracy of the test data. I got the best results for KNNClassifier and LNRClassifier. Their accuracy is betwween 0.8 and 0.9
+I measured the accuracy of the testing set. I got the best results for KNNClassifier and LNRClassifier. Their accuracy is betwween 0.8 and 0.9
