@@ -11,7 +11,7 @@ Each fish has 6 characteristics (3xlength, width, height and weight). Firstly I 
  * RandomClassifier - baseline/dummy
  * KNNClassifier - k-nearest neighbors
  * LNRClassifier - linear regression
- * 
+ 
 In the structure of the code, such classes can be distinguished:
  *  Encoder 
  *  Dataset
